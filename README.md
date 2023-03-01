@@ -1,3 +1,10 @@
+#This is a simple react Todo app with only few features like Add Todo and delete todo.I developed this app for my study purpose.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
